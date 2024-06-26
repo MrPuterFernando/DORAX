@@ -74,7 +74,7 @@ ogo a{
         display: flex;
         justify-content: space-between;
         background-color: #333;
-        padding: 500px;
+        padding: 8px;
 		border-radius: 10px;
     }
     .nav-links {
