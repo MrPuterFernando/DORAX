@@ -139,9 +139,9 @@ mnu:active {
     100% { background-position: 0 0; }
 }
 .ogo{
-	width: 100px;
+	width: 30px;
 	border-size: cover;
-	border-radius: 5000px;
+	border-radius: 50px;
 	background-image: url('437243.jpg');
 }
 ogo a{
