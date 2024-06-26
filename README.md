@@ -1,4 +1,5 @@
 <html>
+	<head></head>
 <style>
 sos{
     border: none;
