@@ -174,7 +174,7 @@ li a:hover {
 			<a href="#" class="ogo"><img src="R.jpeg" class="ogo" border size="cover"></a><font color="white"> DORAX </font>	
     </div>
     <div class="nav-links">
-        <sos><a href="file:///C:/Users/Acer/Desktop/1245.html">Home</a></sos>
+        <sos><a href="https://mrputerfernando.github.io/DORAX/">Home</a></sos>
         <mnu><a href="#">About</a></mnu>
 		<mnu><a href="file:///C:/Users/Acer/Desktop/er.html">SingIn</a></mnu>
     </div>
