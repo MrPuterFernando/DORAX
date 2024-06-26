@@ -117,6 +117,35 @@ mnu:before {
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
 }
+.ogo{
+	width: 50px;
+	border-size: cover;
+	border-radius: 5000px;
+	background-image: url('C:\users\acer\Pictures\437243.jpg');
+}
+ogo a{
+    float: left;
+	left: -5px;
+	top: -14px;
+    display: block;
+    color: black; 
+    text-align: center; 
+    text-decoration: none;
+}
+</style>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: inline; 
+    margin-right: 20px; 
+}
+li a:hover {
+    color: #0074D9; 
+}
 <body background="Screenshot 2024-06-26 165849.png">
 <div class="navbar">
     <div class="ogo">
