@@ -117,62 +117,9 @@ mnu:before {
     animation: glowing 20s linear infinite;
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
-    border-radius: 10px;
-}
-mnu a{
-	float: left; 
-    display: block;
-    color: black; 
-    text-align: center;
-    padding: 14px 20px; 
-    text-decoration: none;
- }
-mnu:hover:before {
-    opacity: 1;
-}
-mnu:active {
-    background: white;
-}
-@keyframes glowing {
-    0% { background-position: 0 0; }
-    50% { background-position: 400% 0; }
-    100% { background-position: 0 0; }
-}
-.ogo{
-	width: 30px;
-	border-size: cover;
-	border-radius: 50px;
-	background-image: url('437243.jpg');
-}
-ogo a{
-    float: left;
-	left: -5px;
-	top: -14px;
-    display: block;
-    color: black; 
-    text-align: center; 
-    text-decoration: none;
-}
-</style>
-<style>
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-li {
-    display: inline; 
-    margin-right: 20px; 
-}
-li a:hover {
-    color: #0074D9; 
-}
-</style>
-</head>
-<body background="Screenshot 2024-06-26 165849.png">
 <div class="navbar">
     <div class="ogo">
-			<a href="#" class="ogo"><img src="C:\Users\Acer\Downloads\R.jpeg" class="ogo" border size="cover"></a><font color="white"> DORAX </font>	
+			<a href="#" class="ogo"><img src="C:\Users\Acer\Downloads\R.jpeg" class="ogo" border size="cover"></a><font color="white">  DORAX  </font>	
     </div>
     <div class="nav-links">
         <sos><a href="file:///C:/Users/Acer/Desktop/1245.html">Home</a></sos>
