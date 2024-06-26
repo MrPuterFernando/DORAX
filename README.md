@@ -73,7 +73,7 @@ ogo a{
         display: flex;
         justify-content: space-between;
         background-color: #333;
-        padding: 8px;
+        padding: 10px;
 		border-radius: 10px;
     }
     .nav-links {
