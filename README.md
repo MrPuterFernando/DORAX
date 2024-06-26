@@ -56,7 +56,7 @@ sos:active {
 	width: 70;
 	border-size: cover;
 	border-radius: 5000px;
-	background-image: url('C:\users\acer\Pictures\437243.jpg');
+	background-image: url('437243.jpg');
 }
 ogo a{
     float: left;
@@ -169,7 +169,7 @@ li a:hover {
 }
 </style>
 </head>
-<body background="C:\Users\Acer\Desktop\Screenshots\Screenshot 2024-06-26 165849.png">
+<body background="Screenshot 2024-06-26 165849.png">
 <div class="navbar">
     <div class="ogo">
 			<a href="#" class="ogo"><img src="C:\Users\Acer\Downloads\R.jpeg" class="ogo" border size="cover"></a><font color="white">DORAX</font>	
