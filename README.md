@@ -116,6 +116,8 @@ mnu:before {
     animation: glowing 20s linear infinite;
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
+}
+<body>
 <div class="navbar">
     <div class="ogo">
 			<a href="#" class="ogo"><img src="C:\Users\Acer\Downloads\R.jpeg" class="ogo" border size="cover"></a><font color="white">  DORAX  </font>	
