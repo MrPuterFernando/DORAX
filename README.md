@@ -171,7 +171,7 @@ li a:hover {
 <body background="Screenshot 2024-06-26 165849.png">
 <div class="navbar">
     <div class="ogo">
-			<a href="#" class="ogo"><img src="R.jpeg" class="ogo" border size="cover"></a><font color="white">DORAX</font>	
+			<a href="#" class="ogo"><img src="R.jpeg" class="ogo" border size="cover"></a><font color="white"> DORAX </font>	
     </div>
     <div class="nav-links">
         <sos><a href="file:///C:/Users/Acer/Desktop/1245.html">Home</a></sos>
