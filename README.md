@@ -121,7 +121,7 @@ mnu:before {
 	width: 50px;
 	border-size: cover;
 	border-radius: 5000px;
-	background-image: url('C:\users\acer\Pictures\437243.jpg');
+	background-image: url('437243.jpg');
 }
 ogo a{
     float: left;
