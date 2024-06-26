@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Dorax</title>
 <style>
 sos{
     border: none;
