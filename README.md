@@ -1,5 +1,6 @@
 <html>
-	<head></head>
+<head>
+<title>Dorax</title>
 <style>
 sos{
     border: none;
@@ -52,9 +53,9 @@ sos:active {
     100% { background-position: 0 0; }
 }
 .ogo{
-	width: 30;
+	width: 70;
 	border-size: cover;
-	border-radius: 50px;
+	border-radius: 5000px;
 	background-image: url('437243.jpg');
 }
 ogo a{
@@ -116,6 +117,26 @@ mnu:before {
     animation: glowing 20s linear infinite;
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
+    border-radius: 10px;
+}
+mnu a{
+	float: left; 
+    display: block;
+    color: black; 
+    text-align: center;
+    padding: 14px 20px; 
+    text-decoration: none;
+ }
+mnu:hover:before {
+    opacity: 1;
+}
+mnu:active {
+    background: white;
+}
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
 }
 .ogo{
 	width: 50px;
@@ -146,10 +167,12 @@ li {
 li a:hover {
     color: #0074D9; 
 }
+</style>
+</head>
 <body background="Screenshot 2024-06-26 165849.png">
 <div class="navbar">
     <div class="ogo">
-			<a href="#" class="ogo"><img src="C:\Users\Acer\Downloads\R.jpeg" class="ogo" border size="cover"></a><font color="white">DORAX</font>	
+			<a href="#" class="ogo"><img src="R.jpeg" class="ogo" border size="cover"></a><font color="white">DORAX</font>	
     </div>
     <div class="nav-links">
         <sos><a href="file:///C:/Users/Acer/Desktop/1245.html">Home</a></sos>
@@ -159,4 +182,5 @@ li a:hover {
 </div>
 </body>
 </html>
+
 
